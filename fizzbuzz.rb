@@ -10,6 +10,6 @@ while num < 100 do
     elsif num % 5 == 0 then
         print "#{num} buzz\n"
     else
-        print "num\n"
+        print "#{num}\n"
     end
 end
